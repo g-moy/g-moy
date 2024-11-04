@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ➡️ fmpierre05@gmail.com
+- 📫 How to reach me ➡️ moisefilspierre@gmail.com
 
 <!---
 G-MoY/G-MoY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
