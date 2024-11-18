@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @G-MoY
-- 👀 I’m interested in Programming and AI
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ➡️ moisefilspierre@gmail.com
